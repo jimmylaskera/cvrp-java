@@ -1,18 +1,3 @@
-## Getting Started
+A implementação deste trabalho utiliza um algoritmo que foi baseado no seguinte pseudocódigo, que descreve uma forma simples de construção de rotas baseado na heurística de inserção mais próxima (nearest neighbor). 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Para executar o projeto, após clonar o repositório localmente em sua máquina e importar o projeto para sua IDE de escolha, execute o arquivo “App.java” encontrado na pasta “src”. O usuário pode escolher executar um teste individualmente, ou todos os testes de uma única vez: basta informar o nome do teste (os testes são encontrados na pasta “src/tests”) na linha de comando para executar o projeto. Caso nenhum nome seja informado, o programa irá executar todos os testes. Para cada teste executado, as informações do resultado serão escritas no terminal, e imprimidas em arquivos próprios numa pasta específica (“src/output”, esta pasta será criada caso ainda não exista).
