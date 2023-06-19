@@ -1,0 +1,13 @@
+Instância: A-n63-k9
+Peso total: 1914
+Tempo de execução: 533400 nanosegundos.
+
+Rota 1: 11 14 15 19 21 26 22 16 13 
+Rota 2: 7 12 17 6 10 28 35 55 58 
+Rota 3: 32 33 40 44 50 
+Rota 4: 20 25 37 53 23 4 5 
+Rota 5: 56 51 39 29 2 30 47 
+Rota 6: 18 52 57 34 3 9 31 
+Rota 7: 54 60 62 61 42 8 1 
+Rota 8: 36 43 41 38 27 
+Rota 9: 48 49 46 24 45 59 

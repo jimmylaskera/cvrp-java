@@ -1,0 +1,11 @@
+Instância: A-n45-k7
+Peso total: 1011
+Tempo de execução: 865700 nanosegundos.
+
+Rota 1: 5 2 14 4 19 21 12 26 
+Rota 2: 9 10 8 13 22 18 7 16 
+Rota 3: 15 30 17 32 35 
+Rota 4: 6 24 31 34 33 3 
+Rota 5: 1 20 25 23 38 37 42 40 
+Rota 6: 36 39 29 27 11 28 
+Rota 7: 44 41 43 

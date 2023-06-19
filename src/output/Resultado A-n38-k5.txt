@@ -1,0 +1,9 @@
+Instância: A-n38-k5
+Peso total: 781
+Tempo de execução: 821300 nanosegundos.
+
+Rota 1: 2 13 14 5 7 11 15 32 
+Rota 2: 9 17 24 18 10 28 19 21 31 
+Rota 3: 20 22 27 36 37 25 33 
+Rota 4: 6 8 29 30 34 
+Rota 5: 23 16 4 26 12 35 1 3 
